@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on computer architecture, risc-v, software engineering
 - 📫 How to reach me : arnaudismael@hotmail.com
 - 😄 Pronouns: isma
-- ⚡ Fun fact: ...
 
 <!---
 ismaelwenyam/ismaelwenyam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
